@@ -109,8 +109,6 @@ Below is a preview of the dashboard created for the Bike Store project:
 3. **Power BI Dashboard:**
    - .pbix file containing the interactive dashboard.
 
-4. **Project Report:**
-   - Detailed report summarizing the project and findings.
 
 ---
 

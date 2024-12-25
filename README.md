@@ -10,7 +10,7 @@ The analysis covered two years of data from the `bike_share_yr_0` and `bike_shar
 
 ## Dashboard Preview
 
-Below is a preview of the dashboard created for the Toman Bike Share project:
+Below is a preview of the dashboard created for the Bike Store project:
 
 ![Dashboard Preview](https://github.com/shreyashsupe/Bike-Data-Analysis-Dashboard/blob/main/Dashboard.png)
 
